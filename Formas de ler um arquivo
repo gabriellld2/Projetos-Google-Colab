@@ -1,0 +1,6 @@
+with open('artigos.txt', 'r',) as f:  # Nesse trecho estamos usando funções do python como o 'with' e o 'open' para escolher nosso arquivo e dando um apelido de f.
+                                      # O primeiro parâmetro estamos passando o nome do arquivo e sua extensão, e no segundo estamos passando o 'r' que nesse caso significa read.
+                                      # Teamos também o 'a' de append e o 'x' de create.
+  art = f.read()                      # Nesse techo estamos passando para uma variável art o conteúdo do f.
+
+print(art[:100])                      # Nesse estamos mostrando apenas os 100 primeiros caracteres do nosso arquivo em .txt

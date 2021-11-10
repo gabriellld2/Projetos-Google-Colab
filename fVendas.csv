@@ -1,0 +1,450 @@
+﻿Data Venda,ID_Produto,Cidade,Produto,Valor,ID_Vendedor
+41279,3,Rio de Janeiro,3,3490,6
+41280,1,Rio de Janeiro,6,54,8
+41280,4,Duque Caxias,1,100,7
+41280,2,Angra,9,14170,7
+41280,4,Duque Caxias,7,100,6
+41523,1,São Gonçalo,9,14170,8
+41300,5,Petrópolis,1,4482,8
+41300,3,Campos,6,1425,6
+41420,2,Angra,5,100.8,7
+41300,3,Rio de Janeiro,7,651,7
+41400,2,Duque Caxias,1,100,6
+41280,3,São Gonçalo,1,14170,6
+41280,5,Duque Caxias,5,100,8
+41584,1,São Gonçalo,1,14170,6
+41300,2,Macaé,5,4482,8
+41523,1,Campos,5,1425,8
+41523,4,Duque Caxias,1,100.8,6
+41523,2,Rio de Janeiro,1,651,8
+41523,2,Niterói,7,556,6
+41300,2,Macaé,1,4482,6
+41300,4,Campos,4,1425,7
+41607,5,Duque Caxias,2,100.8,7
+41607,4,Macaé,8,556,8
+41607,5,Rio de Janeiro,4,934.5,6
+41301,4,Rio de Janeiro,9,934.5,7
+41302,4,Duque Caxias,1,1560,8
+41302,3,Niterói,7,444.85,8
+41302,3,Niterói,6,444.85,7
+41303,2,Niterói,2,586.85,6
+41607,3,Niterói,7,586.85,7
+41303,2,Niterói,7,586.85,7
+41303,2,Niterói,1,586.85,8
+41607,5,Niterói,9,586.85,6
+41303,5,Niterói,3,586.85,6
+41303,4,Rio de Janeiro,9,934.5,7
+41607,1,Rio de Janeiro,1,934.5,7
+41607,5,Rio de Janeiro,3,1878,8
+41607,2,Rio de Janeiro,6,545,7
+41607,3,Rio de Janeiro,4,1878,7
+41578,4,Rio de Janeiro,3,1878,6
+41578,3,Rio de Janeiro,1,545,8
+41578,4,Angra,7,1878,7
+41578,4,São Gonçalo,9,100.8,7
+41305,2,São Gonçalo,5,100.8,7
+41314,5,Rio de Janeiro,5,2653.2,6
+41314,5,Rio de Janeiro,9,201,6
+41314,5,Rio de Janeiro,2,3216,7
+41314,1,São Gonçalo,6,1300,8
+41314,5,São Gonçalo,5,1300,7
+41314,2,Niterói,5,1560,7
+41314,4,Rio de Janeiro,8,498.6,8
+41314,5,Campos,4,1300,6
+41314,1,Rio de Janeiro,1,780,6
+41314,5,São Gonçalo,4,1300,8
+41314,3,Rio de Janeiro,2,780,8
+41314,4,São Gonçalo,5,2340,8
+41617,2,Macaé,6,1950,8
+41314,4,Campos,9,1300,7
+41617,4,Rio de Janeiro,2,780,7
+41617,3,Niterói,1,1560,8
+41617,2,Rio de Janeiro,6,780,8
+41617,4,Niterói,3,1560,8
+41626,3,Rio de Janeiro,7,498.6,8
+41626,5,Rio de Janeiro,2,3047,6
+41626,5,Rio de Janeiro,8,3047,6
+41626,1,Rio de Janeiro,8,3047,7
+41314,4,Rio de Janeiro,1,3324,7
+41314,5,Angra,7,498.6,8
+41314,1,Angra,5,3047,7
+41314,4,Angra,4,3324,6
+41314,4,Angra,3,498.6,8
+41314,3,Rio de Janeiro,1,3324,7
+41314,2,São Gonçalo,4,1112,7
+41316,2,Duque Caxias,8,54,8
+41316,4,Niterói,6,7228,8
+41323,2,Campos,8,1668,8
+41626,1,Campos,9,333,6
+41323,1,São Gonçalo,2,3520,7
+41323,4,Campos,1,333,8
+41325,1,Campos,3,2340,8
+41325,2,São Gonçalo,4,1112,7
+41328,3,Petrópolis,7,3520,7
+41328,2,Rio de Janeiro,5,3520,6
+41626,2,Rio de Janeiro,5,4224,8
+41626,2,Petrópolis,7,3520,8
+41626,1,Rio de Janeiro,7,1668,7
+41626,2,Niterói,8,1206,8
+41329,2,Duque Caxias,8,660,6
+41329,1,Niterói,7,5451,8
+41329,1,Rio de Janeiro,2,5632,7
+41329,3,Macaé,5,2112,6
+41329,1,São Gonçalo,7,1056,8
+41329,1,Petrópolis,4,3520,7
+41632,4,São Gonçalo,4,19200,6
+41329,1,São Gonçalo,8,2770,8
+41329,3,Petrópolis,2,4800,8
+41632,1,Rio de Janeiro,8,3336,7
+41632,1,Niterói,5,1408,7
+41632,2,Niterói,5,122,6
+41331,2,Rio de Janeiro,4,7040,7
+41331,5,Duque Caxias,1,1040,8
+41331,5,Angra,1,7040,8
+41331,1,Rio de Janeiro,6,651,6
+41332,4,Rio de Janeiro,2,7040,8
+41334,5,Petrópolis,4,884.4,6
+41334,4,Niterói,9,1206,6
+41334,2,Campos,2,520,8
+41334,4,Petrópolis,8,1378,7
+41334,1,São Gonçalo,4,1056,7
+41334,1,Angra,1,3520,8
+41334,1,Rio de Janeiro,2,1668,6
+41334,3,São Gonçalo,6,3520,8
+41334,3,São Gonçalo,3,3520,6
+41334,1,Duque Caxias,5,1056,6
+41456,5,São Gonçalo,7,1056,8
+41334,1,São Gonçalo,4,1056,7
+41334,1,Petrópolis,5,1378,6
+41334,3,Niterói,7,5280,8
+41456,4,Petrópolis,3,1378,7
+41456,3,São Gonçalo,2,1056,6
+41456,2,São Gonçalo,9,1056,8
+41456,1,Petrópolis,9,1378,8
+41334,4,São Gonçalo,8,3520,6
+41342,2,Rio de Janeiro,6,1560,8
+41342,5,Macaé,2,4787.2,6
+41342,2,Rio de Janeiro,5,4787.2,7
+41345,3,Rio de Janeiro,9,4800,8
+41345,4,São Gonçalo,4,4170,6
+41355,2,Niterói,7,1809,8
+41355,5,Duque Caxias,3,2770,8
+41355,1,Campos,1,2770,6
+41355,5,São Gonçalo,6,831,7
+41355,2,Niterói,7,7228,6
+41358,1,Rio de Janeiro,6,454,7
+41359,4,Petrópolis,7,4482,6
+41359,1,Petrópolis,2,4482,7
+41359,1,Rio de Janeiro,3,7040,6
+41359,4,Niterói,1,5280,6
+41359,5,Duque Caxias,6,108,8
+41359,5,Niterói,2,586.85,8
+41359,2,Rio de Janeiro,7,6672,6
+41359,2,Rio de Janeiro,9,651,8
+41359,2,Rio de Janeiro,6,100,6
+41359,4,Angra,5,934.5,6
+41359,3,Rio de Janeiro,3,100,6
+41359,3,Rio de Janeiro,8,934.5,7
+41363,4,Rio de Janeiro,9,884.4,6
+41363,4,Niterói,8,2251.2,6
+41363,5,Niterói,9,2251.2,8
+41363,2,Campos,3,780,8
+41363,5,Campos,4,211.2,6
+41363,4,Campos,8,211.2,6
+41363,1,Rio de Janeiro,7,4800,8
+41363,2,Campos,8,780,6
+41363,2,São Gonçalo,5,2216,6
+41365,3,São Gonçalo,9,2130.6,7
+41365,5,São Gonçalo,4,2130.6,8
+41365,4,Niterói,9,2880,7
+41365,4,Macaé,1,2880,6
+41365,2,Rio de Janeiro,7,554,7
+41365,1,Rio de Janeiro,2,554,7
+41365,5,Rio de Janeiro,2,6672,6
+41365,3,Rio de Janeiro,6,2502,8
+41365,3,Rio de Janeiro,5,2557.6,6
+41365,2,Rio de Janeiro,5,2502,7
+41377,4,Duque Caxias,4,2412,8
+41377,4,Duque Caxias,4,2412,6
+41377,5,Niterói,9,1560,6
+41377,2,Niterói,4,1560,6
+41377,1,Rio de Janeiro,5,1274.2,7
+41377,1,Campos,9,110.8,8
+41377,4,Campos,4,110.8,6
+41377,5,Rio de Janeiro,5,2770,7
+41377,3,Rio de Janeiro,9,2770,8
+41377,1,Rio de Janeiro,1,8340,8
+41377,2,Rio de Janeiro,3,8340,8
+41381,1,Rio de Janeiro,1,2412,8
+41381,5,Angra,9,2412,8
+41381,1,São Gonçalo,3,2770,6
+41381,3,Angra,9,2770,6
+41381,1,Rio de Janeiro,3,110.8,8
+41381,5,Duque Caxias,6,4320,6
+41381,1,São Gonçalo,3,4320,7
+41381,1,São Gonçalo,3,4320,6
+41381,2,São Gonçalo,6,4320,6
+41381,3,Duque Caxias,9,4320,8
+41381,2,Rio de Janeiro,6,110.8,8
+41381,5,Duque Caxias,8,1274.2,7
+41381,4,Duque Caxias,5,4320,8
+41381,5,Duque Caxias,2,1274.2,7
+41392,1,Petrópolis,6,4482,6
+41392,3,Petrópolis,6,4482,8
+41392,2,Macaé,9,4482,7
+41396,4,Niterói,8,556,6
+41396,3,Niterói,9,556,8
+41396,3,Niterói,4,556,7
+41396,4,Niterói,3,556,6
+41396,3,Niterói,5,3556,6
+41396,3,Niterói,7,556,6
+41396,4,Niterói,2,556,6
+41397,4,Petrópolis,1,1020,7
+41397,2,Petrópolis,4,1020,6
+41397,4,Campos,7,780,6
+41397,3,Campos,1,780,7
+41397,3,Campos,7,780,8
+41397,1,Campos,6,780,8
+41397,5,Campos,4,780,7
+41397,1,São Gonçalo,8,100.8,8
+41397,1,São Gonçalo,1,100.8,7
+41397,5,São Gonçalo,5,100.8,8
+41397,1,Rio de Janeiro,7,804,7
+41397,4,Angra,9,804,7
+41397,4,Rio de Janeiro,2,804,7
+41397,2,Campos,7,780,8
+41397,5,São Gonçalo,9,100.8,7
+41411,4,Duque Caxias,7,1274.2,7
+41411,5,Rio de Janeiro,6,2412,8
+41422,1,São Gonçalo,4,1056,8
+41426,1,Duque Caxias,7,1527.6,6
+41426,2,Niterói,3,1425,6
+41426,4,Duque Caxias,9,1527.6,7
+41426,3,Duque Caxias,7,1527.6,6
+41427,1,Niterói,7,3556,6
+41427,1,Petrópolis,6,1020,7
+41427,2,Rio de Janeiro,5,2502,7
+41438,3,Duque Caxias,4,2224,8
+41438,1,Macaé,2,2224,8
+41442,1,Duque Caxias,5,1560,8
+41442,3,Duque Caxias,4,1800.5,8
+41442,3,Duque Caxias,7,1800.5,6
+41442,4,Rio de Janeiro,6,2770,8
+41448,3,Rio de Janeiro,8,4787.2,6
+41450,3,Rio de Janeiro,6,1560,6
+41450,1,Rio de Janeiro,8,4800,8
+41451,5,Rio de Janeiro,8,7040,7
+41451,4,Rio de Janeiro,6,7040,6
+41451,3,Niterói,1,5280,7
+41451,2,Niterói,5,5280,7
+41451,4,Rio de Janeiro,1,6672,7
+41451,3,Duque Caxias,4,1108,6
+41451,3,Duque Caxias,1,1108,8
+41451,5,Rio de Janeiro,1,651,7
+41451,3,Duque Caxias,8,1108,6
+41451,2,Rio de Janeiro,5,6672,8
+41451,4,Rio de Janeiro,1,651,8
+41451,2,Rio de Janeiro,8,6672,7
+41453,2,Campos,6,7040,8
+41453,5,Angra,7,7040,7
+41453,2,Rio de Janeiro,9,1385,7
+41453,3,Rio de Janeiro,8,1385,7
+41454,4,Rio de Janeiro,7,4020,6
+41454,5,Campos,3,884.4,7
+41454,5,Petrópolis,9,804,7
+41454,2,Niterói,5,2112,6
+41454,1,Rio de Janeiro,9,4787.2,6
+41455,5,Rio de Janeiro,1,804,8
+41455,4,Rio de Janeiro,2,4020,6
+41455,2,São Gonçalo,1,884.4,6
+41455,3,Rio de Janeiro,9,4787.2,8
+41469,5,Niterói,3,154,6
+41469,1,Macaé,6,215,6
+41469,2,Rio de Janeiro,7,215,8
+41469,5,Niterói,1,154,8
+41469,3,Rio de Janeiro,8,215,6
+41469,5,Niterói,5,154,8
+41469,2,Rio de Janeiro,2,215,8
+41469,4,Niterói,9,154,7
+41479,4,Niterói,3,2251.2,8
+41479,3,Niterói,2,2251.2,6
+41479,1,Petrópolis,6,4482,7
+41479,1,Niterói,6,2251.2,6
+41479,4,Petrópolis,2,4482,7
+41479,2,Niterói,5,2251.2,6
+41479,3,Niterói,6,2251.2,7
+41479,3,Petrópolis,1,4482,8
+41479,2,Niterói,5,2251.2,7
+41479,3,São Gonçalo,3,2216,8
+41479,1,São Gonçalo,8,2216,6
+41479,3,São Gonçalo,9,2216,8
+41479,3,Angra,3,2251.2,7
+41486,4,Campos,7,1108,6
+41486,3,Angra,6,1108,7
+41487,2,Duque Caxias,3,4800,7
+41487,4,Duque Caxias,4,4800,8
+41493,1,Rio de Janeiro,8,4800,7
+41493,5,São Gonçalo,8,4170,7
+41493,4,Rio de Janeiro,3,4800,8
+41494,1,Petrópolis,7,4482,8
+41494,1,Rio de Janeiro,2,454,7
+41494,2,Rio de Janeiro,9,100,8
+41503,4,Rio de Janeiro,3,2340,7
+41503,5,Petrópolis,8,554,8
+41511,2,Petrópolis,7,1560,8
+41514,3,Rio de Janeiro,9,3336,6
+41514,3,Macaé,9,3336,6
+41515,2,Rio de Janeiro,2,4020,7
+41515,2,Duque Caxias,4,884.4,7
+41515,3,Rio de Janeiro,4,4020,7
+41515,3,Petrópolis,3,804,6
+41515,2,Niterói,4,2112,6
+41515,4,Duque Caxias,2,4787.2,7
+41515,1,Niterói,3,2112,7
+41515,1,Duque Caxias,9,4787.2,7
+41515,4,Petrópolis,3,804,8
+41515,3,Duque Caxias,6,884.4,6
+41516,1,Rio de Janeiro,6,804,7
+41516,2,Campos,3,4020,7
+41516,1,Campos,2,4020,7
+41516,5,Rio de Janeiro,2,4787.2,6
+41516,5,Rio de Janeiro,1,4787.2,7
+41516,4,Rio de Janeiro,3,804,6
+41516,3,Petrópolis,7,884.4,6
+41516,4,Petrópolis,6,884.4,7
+41522,4,Angra,1,3490,6
+41522,4,Campos,9,3490,6
+41523,2,Angra,6,54,7
+41526,1,Petrópolis,3,4787.2,7
+41527,2,Rio de Janeiro,8,4787.2,7
+41528,1,Rio de Janeiro,6,1560,7
+41529,4,Duque Caxias,9,54,7
+41529,2,São Gonçalo,1,831,6
+41530,3,Petrópolis,1,3520,7
+41531,4,Rio de Janeiro,4,4224,6
+41531,4,Rio de Janeiro,2,4224,7
+41531,2,Rio de Janeiro,1,4224,6
+41532,2,Niterói,4,7228,7
+41535,4,São Gonçalo,7,831,8
+41536,4,Rio de Janeiro,7,4224,7
+41536,1,Macaé,5,3520,8
+41539,2,Niterói,4,7228,6
+41540,5,Rio de Janeiro,2,4787.2,8
+41542,1,Rio de Janeiro,1,1560,8
+41542,1,Rio de Janeiro,7,1560,7
+41542,3,Petrópolis,2,4800,6
+41545,3,Campos,5,7040,7
+41545,4,São Gonçalo,7,1056,6
+41545,2,Rio de Janeiro,9,3520,8
+41545,2,Rio de Janeiro,4,1385,6
+41546,5,Duque Caxias,8,4800,7
+41546,2,São Gonçalo,4,1246.5,6
+41546,3,Rio de Janeiro,1,54,7
+41546,1,Rio de Janeiro,4,2412,8
+41549,1,Rio de Janeiro,9,402,8
+41549,1,Rio de Janeiro,4,402,7
+41549,3,Rio de Janeiro,4,2502,7
+41549,4,Rio de Janeiro,9,2502,6
+41559,2,São Gonçalo,4,2816,6
+41559,5,Angra,3,2816,6
+41566,5,Petrópolis,9,402,7
+41566,4,Angra,6,402,7
+41566,5,Petrópolis,2,804,6
+41566,1,Rio de Janeiro,2,804,6
+41566,1,Rio de Janeiro,9,4020,7
+41566,1,Petrópolis,3,402,8
+41566,3,Campos,2,402,7
+41566,1,Rio de Janeiro,2,4020,6
+41566,2,Campos,4,333,6
+41566,2,Campos,2,333,7
+41566,5,São Gonçalo,6,3520,7
+41566,2,São Gonçalo,5,3520,8
+41566,3,Petrópolis,5,804,6
+41566,1,Rio de Janeiro,6,804,7
+41573,1,Macaé,5,122,8
+41573,1,Niterói,4,122,8
+41574,3,Duque Caxias,2,7040,7
+41574,5,Rio de Janeiro,5,7040,7
+41574,5,Rio de Janeiro,9,7040,7
+41574,4,Duque Caxias,9,7040,6
+41577,1,Rio de Janeiro,2,4020,7
+41577,1,Campos,2,884.4,6
+41577,1,Rio de Janeiro,5,804,8
+41577,4,Rio de Janeiro,2,884.4,6
+41577,4,Petrópolis,5,402,7
+41577,3,Rio de Janeiro,3,804,8
+41577,4,Niterói,7,4020,7
+41577,4,Rio de Janeiro,4,884.4,8
+41577,3,Niterói,9,4020,7
+41577,4,Niterói,5,4020,7
+41577,2,Rio de Janeiro,2,884.4,7
+41577,1,Petrópolis,7,804,8
+41577,2,Petrópolis,7,804,6
+41577,1,Angra,2,804,6
+41577,5,Rio de Janeiro,9,884.4,6
+41577,5,Angra,2,884.4,7
+41577,3,Rio de Janeiro,8,4020,7
+41587,5,Rio de Janeiro,1,1560,7
+41587,4,Rio de Janeiro,4,1560,8
+41587,5,Petrópolis,8,4787.2,8
+41587,5,Petrópolis,3,4787.2,8
+41587,1,Rio de Janeiro,1,4787.2,7
+41587,4,Petrópolis,3,4787.2,6
+41587,3,Rio de Janeiro,6,4787.2,8
+41587,1,Rio de Janeiro,4,4787.2,7
+41587,1,Rio de Janeiro,3,1560,6
+41596,4,São Gonçalo,1,831,6
+41596,2,São Gonçalo,2,831,7
+41596,2,Macaé,7,831,8
+41597,4,Petrópolis,3,3520,6
+41597,1,Petrópolis,4,3520,7
+41597,4,Petrópolis,4,3520,6
+41597,2,Rio de Janeiro,4,4224,6
+41597,3,Rio de Janeiro,3,4224,7
+41597,4,Rio de Janeiro,5,4224,7
+41600,3,Niterói,2,7228,7
+41600,1,Niterói,9,7228,7
+41600,5,Niterói,5,7228,6
+41604,2,Rio de Janeiro,4,7040,6
+41604,4,Niterói,9,5280,7
+41604,2,Duque Caxias,5,1108,8
+41604,4,Rio de Janeiro,2,6672,8
+41604,4,Rio de Janeiro,6,651,6
+41606,5,Campos,6,7040,6
+41606,4,São Gonçalo,4,1056,7
+41606,2,Rio de Janeiro,2,3520,7
+41606,1,Macaé,6,3520,8
+41606,3,Rio de Janeiro,2,1385,6
+41608,4,Niterói,9,2251.2,8
+41608,5,Angra,9,2251.2,8
+41608,4,Rio de Janeiro,4,4800,7
+41608,1,São Gonçalo,7,2216,6
+41620,5,Rio de Janeiro,5,4800,7
+41620,3,Duque Caxias,5,54,7
+41620,4,São Gonçalo,7,4170,8
+41633,5,Rio de Janeiro,7,454,6
+41633,2,Rio de Janeiro,2,454,7
+41634,5,Petrópolis,2,4482,8
+41634,2,Petrópolis,9,4482,6
+41634,1,Petrópolis,1,4482,6
+41634,3,Niterói,9,5280,7
+41634,3,Rio de Janeiro,9,100,6
+41634,5,Macaé,1,934.5,8
+41634,4,Niterói,3,586.85,7
+41634,2,Niterói,9,586.85,6
+41634,3,Niterói,5,586.85,6
+41634,4,Petrópolis,1,4482,6
+41634,3,Niterói,2,586.85,6
+41634,5,Rio de Janeiro,3,934.5,6
+41634,3,Rio de Janeiro,2,934.5,8
+41634,4,Rio de Janeiro,5,100,7
+41634,5,Duque Caxias,2,100,6
+41634,3,Macaé,6,934.5,8
+41634,1,Duque Caxias,5,100,7
+41637,1,Duque Caxias,7,1560,7
+41637,3,Rio de Janeiro,3,2412,7
+41637,3,Duque Caxias,5,4800,6
+41637,2,São Gonçalo,1,1246.5,7
+41637,3,Rio de Janeiro,3,54,6
+41638,1,Rio de Janeiro,800,80000,10
+41638,3,Macaé,100,80,9
